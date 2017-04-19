@@ -1,0 +1,10 @@
+/dataset/snap_livejournal
+/results
+/submission
+*.pdf
+*.sh
+*.pyc
+sample_connected_nodes.py
+run_samplenode9.py
+synthetic_target_generate.py
+__init__.py
